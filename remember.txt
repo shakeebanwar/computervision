@@ -1,0 +1,6 @@
+VGA = 640X480 width*height
+HD = 1280X720
+FHD = 1920X1080
+4K = 3840X2160
+
+
